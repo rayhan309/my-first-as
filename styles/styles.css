@@ -119,3 +119,31 @@ main{
 .section-item-div{
     display: block;
 }
+
+/* section-3 styles */
+.section-3-container{
+    margin: 130px 150px;
+    
+}
+.section-3-div-container{
+    display: flex;
+    justify-content: center;
+    gap: 44px;
+}
+.section-3-t-item{
+    background-color: #F2EDED;
+    padding: 24px;
+}
+.faijur{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+.section-3-title{
+    font-size: 42px;
+    font-weight: bold;
+    text-align: center;
+}
+.pading{
+    border-radius: 50px;
+}
